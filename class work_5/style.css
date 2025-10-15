@@ -1,0 +1,39 @@
+.container {
+  margin: 500px;
+  border: 2px solid black;
+  padding: 50px;
+  background-color: lightgrey;
+  height: auto;
+  width: auto;
+}
+
+.table {
+  border: 1px solid black;
+  margin: auto;
+  padding: 0px;
+  background-color: white;
+  height: 70px;
+  width: 500px;
+}
+
+td {
+  border: 2px solid black;
+  height: 70px;
+  width: 200px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}/*# sourceMappingURL=style.css.map */
