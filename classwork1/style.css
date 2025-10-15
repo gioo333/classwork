@@ -1,0 +1,103 @@
+.container {
+  background-color: grey;
+  margin: auto;
+  display: flex;
+  margin: 500px;
+  height: 500px;
+  width: 1700px;
+}
+
+.div {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border: dotted 5px red;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 200px;
+  padding: 70px;
+}
+
+.div1 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border-top: solid 100px red;
+  border-left: solid 100px green;
+  border-bottom: solid 100px blue;
+  border-right: solid 100px white;
+  margin: 200px;
+}
+
+.div2 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border-top: dashed 10px red;
+  border-left: solid 10px green;
+  border-bottom: dotted 10px blue;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 200px;
+  padding: 70px;
+}
+
+.div2-1 {
+  border: solid 5px red;
+  border-radius: 40px 0 0 0;
+  width: 700px;
+  height: 100px;
+  background-color: yellow;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 200px;
+  padding: 70px;
+}
+
+.div2-2 {
+  border: solid 5px rgba(19, 107, 7, 0.534);
+  border-radius: 0px 40px 40px 0px;
+  width: 700px;
+  height: 100px;
+  background-color: yellow;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 200px;
+  padding: 70px;
+}
+
+.div2-3 {
+  border: solid 5px rgba(19, 107, 7, 0.534);
+  border-radius: 40px 0px 40px 0px;
+  width: 700px;
+  height: 100px;
+  background-color: yellow;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 200px;
+  padding: 70px;
+}
+
+.div2-6 {
+  background-image: linear-gradient(to right, red 15%, yellow 50%, green 85%);
+  background-color: yellow;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 200px;
+  padding: 70px;
+  border: solid 5px rgba(19, 107, 7, 0.534);
+  width: 700px;
+  height: 100px;
+}
+
+.div2-7 {
+  background-image: linear-gradient(to right, rgb(55, 0, 255) 85%, top-corner green 15%);
+  background-color: yellow;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 200px;
+  padding: 70px;
+  border: solid 5px rgba(19, 107, 7, 0.534);
+  width: 700px;
+  height: 100px;
+}/*# sourceMappingURL=style.css.map */
